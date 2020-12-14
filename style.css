@@ -1,0 +1,70 @@
+body {
+  background-image: url(images/bg-desktop.svg);
+  background-color: hsl(228, 45%, 44%);
+}
+
+.header img {
+  height: 80%;
+  width: 12%;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.body img {
+  float: left;
+  width: 45%;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+
+.body-left {
+  position: absolute;
+}
+
+.body-left-header {
+  color: white;
+  font-family: poppins;
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 780px;
+  width: 25%;
+  margin-top: 100px;
+}
+
+.body-left-data {
+  font-family: open sans;
+  color: white;
+  margin-left: 780px;
+  width: 28%;
+  margin-top: 15px;
+}
+
+.button {
+  margin-left: 780px;
+  margin-top: 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+.button1 {
+  border-radius: 35px;
+  border: none;
+  padding: 15px 50px;
+  color: blue;
+  font-weight: bold;
+
+}
+
+
+.attribution {
+  clear: both;
+}
+
+.attribution {
+  padding: 30px;
+  color: white;
+}
+
+a {
+  color: white;
+}
